@@ -1,4 +1,4 @@
-# 日本語 (にほんご)
+# 日本語 (にほんご; nihongo)
 
 ## Recommended Listening Practice
 Minna no Nihongo I 2nd Edition CD<br/>
