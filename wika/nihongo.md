@@ -1,0 +1,14 @@
+# 日本語 (にほんご)
+
+## Recommended Listening Practice
+Minna no Nihongo I 2nd Edition CD<br/>
+https://archive.org/details/65-dai-18-ka-mondai-2;<br/>
+last accessed: 20220420
+
+### Technique Notes
+1) Use: example conversations, instead of individual words;
+2) Listen: repeatedly until CAN remember the next conversation in the audio sequence
+
+## Output
+1) High School Level nihongo (Japanese Language Proficiency Level (JLPT) N1)<br/> 
+--> Learning Time (Estimated): 5years
