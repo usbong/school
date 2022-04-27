@@ -1,5 +1,6 @@
 # Usbong School
-1) Language Learning with Technology Assistance
+1) Language Learning with Technology Assistance<br/>
+1.1) 日本語 (にほんご; nihongo): https://github.com/usbong/school/blob/main/wika/nihongo.md
 
 ## STUDENT∙TEACHER
 SYSON, MICHAEL B.: https://github.com/masarapmabuhay/-
@@ -26,8 +27,11 @@ to create <b>ORDER</b> from the <b>CHAOS</b> of <b>disorganized THOUGHTS and IDE
 > 5) for financial gain<br/>
 
 ### Reference:
-[Ozawa, Hiroshi. 1997. Kendo: The Definitive Guide (translated by Angela Turzynski). Tokyo: Kodansha International, Ltd.](https://www.amazon.com/Kendo-Definitive-Guide-Hiroshi-Ozawa/dp/4770021194)
+[Ozawa, Hiroshi. (1997). "Kendo: the definitive guide (translated by Angela Turzynski)". Tokyo: Kodansha International, Ltd.](https://www.amazon.com/Kendo-Definitive-Guide-Hiroshi-Ozawa/dp/4770021194)
 
+## Computer Software Tools
+1) https://www.audacityteam.org/; last accessed: 20220427<br/>
+--> Multi-track audio editor and recorder
 
 # Open Source Software License
 Copyright 2022 SYSON, MICHAEL B.
