@@ -1,5 +1,9 @@
 # 日本語 (にほんご; nihongo)
 
+## Example Recordings: Training Sessions
+1) What is [とか](https://github.com/usbong/school/blob/main/wika/recordings/nihongoTokaRadioSpeakerMicKaraoke220422T1431.zip)?<br/>
+keyphrase: とか, Radio, Speaker, Mic, Karaoke
+
 ## Recommended Listening Practice
 Minna no Nihongo I 2nd Edition CD<br/>
 https://archive.org/details/65-dai-18-ka-mondai-2;<br/>
