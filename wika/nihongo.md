@@ -2,7 +2,13 @@
 
 ## Example Recordings: Training Sessions
 1) What is [とか](https://github.com/usbong/school/blob/main/wika/recordings/nihongoTokaRadioSpeakerMicKaraoke220422T1431.zip)?<br/>
-keyphrase: とか, Radio, Speaker, Mic, Karaoke
+<b>keyphrase:</b> とか, Radio, Speaker, Mic, Karaoke<br/>
+
+2) What is [つぶし](https://github.com/usbong/school/blob/main/wika/recordings/socialMediaJikanTsubushi20220425.zip)?<br/>
+<b>keyphrase:</b> SOCIAL MEDIA, 時間 (jikan), つぶし（tsubushi）<br/>
+
+3) What is [スタックオーバーフロー](https://github.com/usbong/school/blob/main/wika/recordings/discordStackOverflowLogicalQAndAFB20220425.zip)?<br/>
+<b>keyphrase:</b> DISCORD, スタックオーバーフロー (stackoverflow), LOGICAL Q&A, reddit, FB 
 
 ## Recommended Listening Practice
 Minna no Nihongo I 2nd Edition CD<br/>
