@@ -13,6 +13,12 @@ http://store.usbong.ph/server/audio/viewAudio.php
 3) What is [スタックオーバーフロー](https://github.com/usbong/school/blob/main/wika/recordings/discordStackOverflowLogicalQAndAFB20220425.zip)?<br/>
 <b>keyphrase:</b> DISCORD, スタックオーバーフロー (stackoverflow), LOGICAL Q&A, reddit, Facebook (FB) 
 
+4) What is [曖昧（あいまい）](https://github.com/usbong/school/blob/main/wika/recordings/ieUchiAimaiAkirakaSetsumei20220427.zip)?<br/>
+<b>keyphrase:</b> 家 (いえ、うち), 内 (うち), いえ (NO), 発音 (PRONUNCIATION), 曖昧 (あいまい), 明らか、説明 (せつめい)
+
+5) What is [噂（うわさ；GOSSIP)](https://github.com/usbong/school/blob/main/wika/recordings/uwasaGossip20220427.zip)?<br/>
+<b>keyphrase:</b> 噂 (うわさ；GOSSIP), 良くない気持ち
+
 ## Recommended Listening Practice
 Minna no Nihongo I 2nd Edition CD<br/>
 https://archive.org/details/65-dai-18-ka-mondai-2;<br/>
