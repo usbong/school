@@ -19,6 +19,9 @@ http://store.usbong.ph/server/audio/viewAudio.php
 5) What is [噂（うわさ；GOSSIP)](https://github.com/usbong/school/blob/main/wika/recordings/uwasaGossip20220427.zip)?<br/>
 <b>keyphrase:</b> 噂 (うわさ；GOSSIP), 良くない気持ち
 
+6) What is [時間 (jikan)](https://github.com/usbong/school/blob/main/wika/recordings/kankokuDoramaTerebiAideaHonJikan20220502.zip)?<br/>
+<b>keyphrase:</b> 韓国, ドラマ, テレビ, アイデア, 本, 時間 (jikan)
+
 ## Recommended Listening Practice
 Minna no Nihongo I 2nd Edition CD<br/>
 https://archive.org/details/65-dai-18-ka-mondai-2;<br/>
