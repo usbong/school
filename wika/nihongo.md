@@ -38,3 +38,8 @@ last accessed: 20220420
 ## Output
 1) High School Level nihongo (Japanese Language Proficiency Level (JLPT) N1)<br/> 
 --> Learning Time (Estimated): 5years
+
+## Recommended Readings
+### 1) [Japanese Language Proficiency Test (JLPT)](https://www.jlpt.jp/e/guideline/testsections.html)
+### 2) [MARUGOTO: Japanese Language and Culture Starter A1](https://www.marugoto.org/en/assets/docs/about/starter_activities_contents_en.pdf)
+
