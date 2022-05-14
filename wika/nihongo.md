@@ -20,7 +20,11 @@ http://store.usbong.ph/server/audio/viewAudio.php
 <b>keyphrase:</b> 噂 (うわさ；GOSSIP), 良くない気持ち
 
 6) What is [時間 (jikan)](https://github.com/usbong/school/blob/main/wika/recordings/kankokuDoramaTerebiAideaHonJikan20220502.zip)?<br/>
-<b>keyphrase:</b> 韓国, ドラマ, テレビ, アイデア, 本, 時間 (jikan)
+<b>keyphrase:</b> 韓国, ドラマ, テレビ, アイデア, 本 (ほん), 時間 (jikan)
+
+7) What is [マナーモード (mana- mo-do)](https://github.com/usbong/school/blob/main/wika/recordings/keitaiDenwaOFFFlightMana-Mo-doSetteiKompyu-ta20220506.zip)?<br/>
+<b>keyphrase:</b>  携帯電話 (けいたいでんわ, mobile telephone), OFF,<br/> 
+FLIGHT, マナーモード (mana- mo-do), 設定 (settei; setting), コンピュータ
 
 ## Recommended Listening Practice
 Minna no Nihongo I 2nd Edition CD<br/>
