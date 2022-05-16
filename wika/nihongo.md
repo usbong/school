@@ -55,12 +55,16 @@ last accessed: 20220516<br/>
 <br/>
 1.2) <b>Example: JLPT N5 (Year 2009 Publication)</b><br/>
 1.2.1) <b>Examination Questions:</b><br/> 
-https://www.jlpt.jp/samples/pdf/N5-mondai.pdf;</b><br/>
+https://www.jlpt.jp/samples/pdf/N5-mondai.pdf;<br/>
 last accessed: 20220516<br/>
 <br/>
 1.2.2) <b>Audio:</b><br/> 
 https://www.jlpt.jp/samples/mp3/N5Sample.mp3;</b><br/> 
 last accessed: 20220516
+
+1.3) <b>Additional Examples: JLPT PAST Examination</b><br/> 
+https://www.jlpt.jp/samples/sampleindex.html</b><br/>
+last accessed: 20220516<br/>
 
 ### 2) [MARUGOTO: Japanese Language and Culture Starter A1](https://www.marugoto.org/en/assets/docs/about/starter_activities_contents_en.pdf)
 
