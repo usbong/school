@@ -27,9 +27,13 @@ http://store.usbong.ph/server/audio/viewAudio.php
 FLIGHT, マナーモード (mana- mo-do), 設定 (settei; setting), コンピュータ
 
 ## Recommended Listening Practice
-Minna no Nihongo I 2nd Edition CD<br/>
+<b>Minna no Nihongo I 2nd Edition CD</b><br/>
 https://archive.org/details/65-dai-18-ka-mondai-2;<br/>
-last accessed: 20220420
+last accessed: 20220420<br/>
+<br/>
+<b>JLPT N5 Listening Part</b><br/>
+https://www.jlpt.jp/samples/mp3/N5Sample.mp3<br/>
+last accessed: 20220516<br/>
 
 ### Technique Notes
 1) Use: example conversations, instead of individual words;
@@ -45,5 +49,18 @@ last accessed: 20220420
 
 ## Recommended Readings
 ### 1) [Japanese Language Proficiency Test (JLPT)](https://www.jlpt.jp/e/guideline/testsections.html)
+1.1) <b>Example: JLPT PAST Examination</b><br/> 
+https://www.jlpt.jp/samples/sample09.html;<br/>
+last accessed: 20220516<br/>
+<br/>
+1.2) <b>Example: JLPT N5 (Year 2009 Publication)</b><br/>
+1.2.1) <b>Examination Questions:</b><br/> 
+https://www.jlpt.jp/samples/pdf/N5-mondai.pdf;</b><br/>
+last accessed: 20220516<br/>
+<br/>
+1.2.2) <b>Audio:</b><br/> 
+https://www.jlpt.jp/samples/mp3/N5Sample.mp3;</b><br/> 
+last accessed: 20220516
+
 ### 2) [MARUGOTO: Japanese Language and Culture Starter A1](https://www.marugoto.org/en/assets/docs/about/starter_activities_contents_en.pdf)
 
