@@ -60,7 +60,16 @@ last accessed: 20220516<br/>
 <br/>
 1.2.2) <b>Audio:</b><br/> 
 https://www.jlpt.jp/samples/mp3/N5Sample.mp3;</b><br/> 
-last accessed: 20220516
+last accessed: 20220516<br/>
+<br/>
+1.2.3) <b>Answering Sheet:</b><br/> 
+https://www.jlpt.jp/samples/pdf/N5-kaitou.pdf;</b><br/> 
+last accessed: 20220520<br/> 
+1.2.3.1) 言語知識（文字・語彙）<br/> 
+1.2.3.2) 言語知識（文法）・読解<br/> 
+1.2.3.3) 聴解 
+
+https://www.jlpt.jp/samples/pdf/N5-kaitou.pdf
 
 1.3) <b>Additional Examples: JLPT PAST Examination</b><br/> 
 https://www.jlpt.jp/samples/sampleindex.html</b><br/>
