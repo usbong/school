@@ -63,17 +63,33 @@ https://www.jlpt.jp/samples/mp3/N5Sample.mp3;</b><br/>
 last accessed: 20220516<br/>
 <br/>
 1.2.3) <b>Answering Sheet:</b><br/> 
-https://www.jlpt.jp/samples/pdf/N5-kaitou.pdf;</b><br/> 
+https://www.jlpt.jp/samples/pdf/N5-kaitou.pdf;<br/> 
 last accessed: 20220520<br/> 
 1.2.3.1) 言語知識（文字・語彙）<br/> 
 1.2.3.2) 言語知識（文法）・読解<br/> 
 1.2.3.3) 聴解 
 
-https://www.jlpt.jp/samples/pdf/N5-kaitou.pdf
-
 1.3) <b>Additional Examples: JLPT PAST Examination</b><br/> 
 https://www.jlpt.jp/samples/sampleindex.html</b><br/>
 last accessed: 20220516<br/>
+
+1.4) <b>Results: PASS or FAIL</b><br/>
+https://www.jlpt.jp/e/guideline/results.html<br/>
+last accessed: 20220521<br/>
+
+#### JLPT LEVEL: N5~N4
+1.4.1) <b>Sectional Pass Mark: >= 31.6%</b><br/>
+<b>1.4.1.1) Language Knowledge: (Vocabulary/Grammar）・Reading</b><br/>
+38/120 = 0.316;<br/>
+<b>31.6%</b><br/>
+<br/>
+<b>1.4.1.2) Listening</b><br/>
+19/60 = 0.316;<br/>
+<b>31.6%</b><br/>
+<br/>
+1.4.2) <b>Total PASS Mark:</b> <b>>= 50.0%</b><br/>
+90/180 = 0.5;<br/>
+<b>50.0%</b>
 
 ### 2) [MARUGOTO: Japanese Language and Culture Starter A1](https://www.marugoto.org/en/assets/docs/about/starter_activities_contents_en.pdf)
 
