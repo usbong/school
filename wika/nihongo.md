@@ -47,6 +47,18 @@ last accessed: 20220516<br/>
 1) High School Level nihongo (Japanese Language Proficiency Level (JLPT) N1)<br/> 
 --> Learning Time (Estimated): 5years
 
+## Worksheets
+https://github.com/usbong/school/tree/main/wika/worksheets;<br/>
+last accessed: 20220524
+
+### Hiragana Alphabet (last accessed: 20220524)
+<b>Worksheet:</b> https://github.com/usbong/school/blob/main/wika/worksheets/HiraganaPracticeSheet1.pdf</br>
+<b>Writing Sequence Technique:</b> https://genki3.japantimes.co.jp/en/student/hiragana/
+ 
+### Katakana Alphabet (last accessed: 20220524)
+<b>Worksheet:</b> https://github.com/usbong/school/blob/main/wika/worksheets/KatakanaPracticeSheet1.pdf</br>
+<b>Writing Sequence Technique:</b> https://genki3.japantimes.co.jp/en/student/katakana/
+
 ## Recommended Readings
 ### 1) [Japanese Language Proficiency Test (JLPT)](https://www.jlpt.jp/e/guideline/testsections.html)
 1.1) <b>Example: JLPT PAST Examination</b><br/> 
