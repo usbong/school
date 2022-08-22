@@ -26,5 +26,15 @@ to overcome : expired <br/>
 la lucha : struggle, LIFE <br/>
 la factura : bill, invoice
 
+#### 1.3 La seguridad de enlace
+> ¿Es seguro seguir este enlace?<br/>
+> <br/>
+> Los enlaces de este email comenzarán con “https://www.amazon.com”. Puede copiar nuestro enlace a continuación y pegarlo en un navegador para verlo.<br/>
+> https://www.amazon.com/a...
 
+##### keyphrase:
+el mensaje, email, seguridad, enlace<br/>
+<br/>
+pegar : paste<br/>
+pagar : pay<br/>
 
