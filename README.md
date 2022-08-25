@@ -1,7 +1,8 @@
 # Usbong School
 1) Language Learning with Technology Assistance<br/>
 1.1) WIKA: [日本語 (にほんご; nihongo)](https://github.com/usbong/school/blob/main/wika/nihongo.md)<br/>
-1.2) WIKA: [汉语 (hànyǔ)](https://github.com/usbong/school/blob/main/wika/hanyu.md)
+1.2) WIKA: [汉语 (hànyǔ)](https://github.com/usbong/school/blob/main/wika/hanyu.md)<br/>
+1.3) WIKA: [한국어 (hangugeo)](https://github.com/usbong/school/blob/main/wika/hangugeo.md)
 
 ## STUDENT∙TEACHER
 SYSON, MICHAEL B.: https://github.com/masarapmabuhay/-
