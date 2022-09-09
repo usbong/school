@@ -22,4 +22,8 @@ What happened next?<br/>
 --> objective: learn minimum language level proficiency to work @Healthcare Industry,<br/>
 --> based on Deustchland
 
-TO-DO: -add: reference
+#### References
+
+1) Sanchez, D. (ed). (2022). "The Philippine Star: metro: Germany hiring 600 Pinoy nurses (20220906)". Philippines: The Philippine Star
+
+2) Lumagsao, R. (2022). "Germany, nangangailangan ng nasa 600 Pinoy nurse, handang magpasahod ng P160K kada buwan". website: https://balita.net.ph/2022/09/09/germany-nangangailangan-ng-nasa-600-pinoy-nurse-handang-magpasahod-ng-p160k-kada-buwan/; last accessed: 20220910
