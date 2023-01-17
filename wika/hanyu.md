@@ -7,6 +7,27 @@
 [Chinese for HSK 6: 医疗健康](https://www.coursera.org/learn/chinese-for-hsk-6/lecture/Ww9Fl/yi-liao-jian-kang)<br/>
 [Chinese for HSK 5: 知识与技能第1课](https://www.coursera.org/lecture/chinese-for-hsk5/zhi-shi-yu-ji-neng-di-1ke-iCQ1A)
 
+### Notes: Simplified to Traditional Writing Technique
+
+#### 钥匙 -> 鈅匙 X
+yao4shi; KEY
+
+#### --
+
+<b>鈅匙 ?</b><br/>
+yue4shi; "SPOON"<br/>
+<br/>
+<b>勺子 O</b><br/>
+shao2zi; SPOON
+
+#### --
+
+#### 钥匙 -> 鑰匙 O
+yao4shi; KEY
+
+#### Reference:
+GOOGLE SEARCH ENGINE; TRANSLATE
+
 
 ### Notes: Select Pronunciation and Significance
 
