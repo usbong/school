@@ -4,10 +4,6 @@
 
 ### 1. [Amazon Web Services](https://aws.amazon.com/)
 
-### 2. https://manila.cervantes.es/en/diplomas_spanish/prices_diplomas_spanish.htm
-
-### 3. https://examenes.cervantes.es/es/dele/examenes/b1
-
 #### 1.1 Preferencias de cookies
 
 > Seleccione sus preferencias de cookies<br/>
@@ -41,3 +37,7 @@ el mensaje, email, seguridad, enlace<br/>
 <br/>
 pegar : paste<br/>
 pagar : pay<br/>
+
+### 2. https://manila.cervantes.es/en/diplomas_spanish/prices_diplomas_spanish.htm
+
+### 3. https://examenes.cervantes.es/es/dele/examenes/b1
