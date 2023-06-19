@@ -1,5 +1,13 @@
 # Español
 
+## Usbong SOUND:
+
+https://music.youtube.com/channel/UCSBJAcTtuxETWsefmAn9z7w
+
+> Una clase para practicar el idioma español. Vamos a escucharlo, y verificar mi desarrollo y mejora.
+
+<b>Previously:</b> https://github.com/usbong/sound/tree/main/halimbawa/spanishClass
+
 ## Recommended Readings:
 
 ### 1. [Amazon Web Services](https://aws.amazon.com/)
