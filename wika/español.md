@@ -2,11 +2,22 @@
 
 ## Usbong SOUND:
 
-https://music.youtube.com/channel/UCSBJAcTtuxETWsefmAn9z7w
+https://www.youtube.com/@usbong
 
 > Una clase para practicar el idioma español. Vamos a escucharlo, y verificar mi desarrollo y mejora.
 
 <b>Previously:</b> https://github.com/usbong/sound/tree/main/halimbawa/spanishClass
+
+
+## Examination
+
+Las cosas a recordarse
+
+1) Las palabras que no conozco sea la clave
+
+2) El texto tiene las palabras claves que necesito identificar correctamente
+
+
 
 ## Recommended Readings:
 
