@@ -29,6 +29,12 @@ Las cosas a recordarse
 
 ### Referencia: Instituto Cervantes de Manila
 
+### Más palabras 
+
+1) enseguida
+
+2) darse cuenta<br/>
+--> ejemplo: me di cuenta que...
 
 ## Recommended Readings:
 
