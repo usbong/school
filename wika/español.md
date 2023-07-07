@@ -13,10 +13,21 @@ https://www.youtube.com/@usbong
 
 Las cosas a recordarse
 
-1) Las palabras que no conozco sea la clave
+1) Las palabras que no conozco sea la clave.
 
-2) El texto tiene las palabras claves que necesito identificar correctamente
+2) El texto tiene las palabras claves que necesito identificar correctamente.
 
+## Más sobre el examen
+
+1) El escrito/la transcripción: https://examenes.cervantes.es/sites/default/files/b1_tr_t2.pdf
+
+2) Audio: https://examenes.cervantes.es/sites/default/files/audio/b1/B1_AUDIO2.mp3
+
+3) Las preguntas: https://examenes.cervantes.es/sites/default/files/b1_ca_t2.pdf
+
+4) Las claves: https://examenes.cervantes.es/sites/default/files/b1_ca_claves.pdf
+
+### Referencia: Instituto Cervantes de Manila
 
 
 ## Recommended Readings:
