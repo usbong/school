@@ -9,7 +9,7 @@ https://www.youtube.com/@usbong
 <b>Previously:</b> https://github.com/usbong/sound/tree/main/halimbawa/spanishClass
 
 
-## Examination
+## El examen B1
 
 Las cosas a recordarse
 
@@ -17,7 +17,7 @@ Las cosas a recordarse
 
 2) El texto tiene las palabras claves que necesito identificar correctamente.
 
-## Más sobre el examen
+## Más sobre el examen #1
 
 1) El escrito/la transcripción: https://examenes.cervantes.es/sites/default/files/b1_tr_t2.pdf
 
@@ -35,6 +35,35 @@ Las cosas a recordarse
 
 2) darse cuenta<br/>
 --> ejemplo: me di cuenta que...
+
+## Más sobre el examen #2
+
+### https://examenes.cervantes.es/sites/default/files/guia_examen_dele_b1_1.pdf
+
+> Calificación del examen
+
+> Existen dos calificaciones posibles: «Apto» y «No apto». La calificación global de «Apto» se obtiene si se logra una puntuación igual o superior a la puntuación mínima exigida para cada uno de los grupos de pruebas:
+
+> • Grupo 1: 30 puntos.
+
+> • Grupo 2: 30 puntos.
+
+--> La puntuación aprobada: 60/100
+
+> Grupo 1:
+
+> • Comprensión de lectura (25 puntos).
+
+> • Expresión e interacción escritas (25 puntos).
+
+> Grupo 2:
+
+> • Comprensión auditiva (25 puntos).
+
+> • Expresión e interacción orales (25 puntos).
+
+### https://examenes.cervantes.es/sites/default/files/dele_b1_especificaciones.pdf
+
 
 ## Recommended Readings:
 
