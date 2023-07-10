@@ -74,6 +74,8 @@ Las cosas a recordarse
 
 5) enunciados; stated...
 
+6) El ámbito; field, area
+
 ## Recommended Readings:
 
 ### 1. [Amazon Web Services](https://aws.amazon.com/)
