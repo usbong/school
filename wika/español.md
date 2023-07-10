@@ -17,7 +17,7 @@ Las cosas a recordarse
 
 2) El texto tiene las palabras claves que necesito identificar correctamente.
 
-## Más sobre el examen #1
+## Más sobre el examen (un modelo del examen) #1
 
 1) El escrito/la transcripción: https://examenes.cervantes.es/sites/default/files/b1_tr_t2.pdf
 
@@ -64,6 +64,15 @@ Las cosas a recordarse
 
 ### https://examenes.cervantes.es/sites/default/files/dele_b1_especificaciones.pdf
 
+1) realizar; make, execute
+
+2) partir; cut, leave
+
+3) léxico; words, dictionary 
+
+4) epistolares; series of letter writings
+
+5) enunciados; stated...
 
 ## Recommended Readings:
 
