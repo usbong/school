@@ -76,6 +76,16 @@ Las cosas a recordarse
 
 6) El ámbito; field, area
 
+7) pauta; pattern, guideline
+
+8) constar en...; to note, record in...; constar de; consists of...
+
+9) partida; certificate 
+
+10) aportar; to contribute
+
+11) acotar; to write notes
+
 ## Recommended Readings:
 
 ### 1. [Amazon Web Services](https://aws.amazon.com/)
