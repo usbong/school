@@ -17,7 +17,7 @@ Las cosas a recordarse
 
 2) El texto tiene las palabras claves que necesito identificar correctamente.
 
-## Más sobre el examen (un modelo del examen) #1
+## Más sobre el examen ([un modelo del examen](https://examenes.cervantes.es/es/dele/preparar-prueba)) #1
 
 1) El escrito/la transcripción: https://examenes.cervantes.es/sites/default/files/b1_tr_t2.pdf
 
