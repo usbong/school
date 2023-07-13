@@ -86,6 +86,15 @@ Las cosas a recordarse
 
 11) acotar; to write notes
 
+## Un video ejemplo, la manera de hablar 
+
+https://www.youtube.com/watch?v=Rg-HWW2qxhw
+
+> Vídeo entrevista Álex Corretja en Twitch 
+
+> Real Federación Española de Tenis
+
+
 ## Recommended Readings:
 
 ### 1. [Amazon Web Services](https://aws.amazon.com/)
