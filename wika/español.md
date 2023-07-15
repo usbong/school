@@ -95,6 +95,13 @@ https://www.youtube.com/watch?v=Rg-HWW2qxhw
 > Real Federación Española de Tenis
 
 
+## [Curso de preparación para el DELE B1](https://clic.cervantes.es/es/curso-de-preparacion-para-el-dele-b1?_gl=1*1pkxdjb*glob_ga*NTQxMjM0NTgwLjE2ODYyOTk2NTI.*glob_ga_57JPCLFY9Z*MTY4ODUzNTM2My40LjEuMTY4ODUzNTU5Mi4yMy4wLjA.*port_ga*NTQxMjM0NTgwLjE2ODYyOTk2NTI.*port_ga_Z9V7YFW9ZK*MTY4ODUzNTQ0MS4zLjEuMTY4ODUzNTU5Mi4yMy4wLjA)
+
+### [Curso en línea de preparación para el examen DELE B1](https://ave.cervantes.es/curso-de-preparacion-para-el-examen-dele-b1?_gl=1*11t70ux*glob_ga*NDczNDEzNTkuMTY4ODg3NzYxNA..*glob_ga_57JPCLFY9Z*MTY4OTQwOTA4OS40LjEuMTY4OTQwOTE3Mi41NS4wLjA.*port_ga*NDczNDEzNTkuMTY4ODg3NzYxNA..*port_ga_Z9V7YFW9ZK*MTY4OTQwOTA4OS40LjEuMTY4OTQwOTE3Mi41NS4wLjA.)
+
+### [Términos y condiciones](https://clic.cervantes.es/es/cursos/t%C3%A9rminos-y-condiciones)
+
+
 ## Recommended Readings:
 
 ### 1. [Amazon Web Services](https://aws.amazon.com/)
