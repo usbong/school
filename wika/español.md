@@ -105,6 +105,11 @@ https://www.youtube.com/watch?v=Rg-HWW2qxhw
 
 > Deberá aportarse la documentación...
 
+#### --
+
+cualquiera vs cualquier
+
+https://www.spanishdict.com/compare/cualquiera/cualquier?searchText=cualquiera%20vs%20cualquier
 
 ## Recommended Readings:
 
