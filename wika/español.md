@@ -111,6 +111,16 @@ cualquiera vs cualquier
 
 https://www.spanishdict.com/compare/cualquiera/cualquier?searchText=cualquiera%20vs%20cualquier
 
+#### --
+
+> En general son los siguientes:
+
+> • Sistema operativo: Microsoft Windows VISTA/7/8.x/10, Mac OS X v10.4.x o superior o cualquier distribución de Linux.
+
+> • Hardware: equipo con conexión a internet, tarjeta gráfica y de sonido, micrófono y altavoces o auriculares.
+
+> • Software: Navegador actualizado; aplicaciones de procesamiento de textos y de reproducción de vídeo; Adobe Reader y Winrar.
+
 ## Recommended Readings:
 
 ### 1. [Amazon Web Services](https://aws.amazon.com/)
