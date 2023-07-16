@@ -121,6 +121,22 @@ https://www.spanishdict.com/compare/cualquiera/cualquier?searchText=cualquiera%2
 
 > • Software: Navegador actualizado; aplicaciones de procesamiento de textos y de reproducción de vídeo; Adobe Reader y Winrar.
 
+### https://cervantes.org/es/aviso-legal; last accessed: 20230717
+
+> Aviso legal y política de privacidad 
+
+
+> 1. No se admitirá texto alguno que incluya insultos, difamaciones, amenazas, vejaciones hacia cualquier persona o institución, ni expresiones obscenas, racistas o xenófobas.
+
+> 2. No se permitirán los contenidos que promuevan actividades ilegales o inciten a la violencia.
+
+> 3. No se admitirán comentarios o contenidos provenientes de fuentes externas que sean directa o indirectamente publicitarios o de promoción sobre un producto o marca. Ello sin perjuicio de lo establecido en los programas de patrocinio del Instituto Cervantes respecto de sus patrocinadores.
+
+> 4. No se admitirán mensajes, comentarios o aportaciones que estén destinados a interrumpir o desvirtuar la conversación.
+
+> 5. Se considerarán como molestos los mensajes reiterados o repetidos o que incluyan repeticiones o reiteraciones de caracteres y se eliminarán también los contenidos que se envíen desde robots informáticos con la intención de «generar ruido» o puedan ser considerados como «spam».
+
+
 ## Recommended Readings:
 
 ### 1. [Amazon Web Services](https://aws.amazon.com/)
