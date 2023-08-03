@@ -1,6 +1,6 @@
 # Escribir
 
-La película, «The Super Mario Bros. Movie», es la primera película que yo ha visto después de 5 años.
+La película, «The Super Mario Bros. Movie», es la primera película que yo he visto después de 5 años.
 
 Es de la tecnología que usa los graficós de 3D para dibujar rápidamente los objetos, los paisajes, y pues los héroes. 
 
