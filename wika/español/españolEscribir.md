@@ -1,6 +1,6 @@
 # Escribir
 
-La película, "The Super Mario Bros. Movie", es la primera película que yo ha visto después de 5 años.
+La película, «The Super Mario Bros. Movie», es la primera película que yo ha visto después de 5 años.
 
 Es de la tecnología que usa los graficós de 3D para dibujar rápidamente los objetos, los paisajes, y pues los héroes. 
 
@@ -12,7 +12,7 @@ Entonces, lo que más me gustó es sus dibujos animados que tienen los personaje
 
 De hecho, cuando la vi en la cine, me pareció que su guion original fue de inglés, porque no pensé nada que esta película tenía el doblaje de voz. También, porque es de los dibujos animados hay las escenas que no podemos ver en real, cuando los humanos actúan. Las me encantó mucho.
 
-En conclusión, vamos a esperar por la siguiente, porque es claro que nosotros todos hemos ganado con la película, "The Super Mario Bros. Movie".
+En conclusión, vamos a esperar por la siguiente, porque es claro que nosotros todos hemos ganado con la película, «The Super Mario Bros. Movie».
 
 
 ### La referencia:
