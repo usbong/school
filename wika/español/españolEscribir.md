@@ -10,7 +10,7 @@ Además, los hermanos tienen sus personajes como siempre, es decir, Mario puede 
 
 Entonces, lo que más me gustó es sus dibujos animados que tienen los personajes por la manera de hablar, moverse, et cetera. 
 
-De hecho, cuando la vi en la cine, me pareció que su guion original fue de inglés, porque no pensé nada que esta película tenía el doblaje de voz. También, porque es de los dibujos animados hay las escenas que no podemos ver en real, cuando los humanos actúan. Las me encantó mucho.
+De hecho, cuando la vi en la cine, me pareció que su guion original fue de inglés, porque no pensé nada que esta película tenía el doblaje de voz. También, porque es de los dibujos animados hay las escenas que no podemos ver en real, cuando los humanos actúan. Me encantaron mucho.
 
 En conclusión, vamos a esperar por la siguiente, porque es claro que nosotros todos hemos ganado con la película, «The Super Mario Bros. Movie».
 
