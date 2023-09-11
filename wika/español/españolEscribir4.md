@@ -12,7 +12,7 @@ Hasta ahora, lo que yo recuerdo más es cuando nosotros intentamos buscar el hos
 
 Y cuando al final, hemos llegado, encontraban al otro equipo que tuvo más miembros, como 10 personas. Y su guía fue una chica de China, aunque estudiaba en Australia, y después, por el programa del intercambio ha venido al Japón. 
 
-Tenemos una fota que mostra que nosotros estamos en el barco para ir a la Miyajima, una isla acerca de Hiroshima.
+Tenemos una foto que mostra que nosotros estamos en el barco para ir a la Miyajima, una isla acerca de Hiroshima.
 
 Creo que hay algunos de los antiquos alumnos que vuelven al Japón para quedar, y charlar sobre los viajes como esto cuando nosotros fuimos estudiantes. Entonces, yo creo que los dias finales del mes de setiembre son agradables para hacer esta cosa, porque el siguiente clima es el otoño, y por eso, hará más fresco que los dias anteriores, y bueno, los dias que vienen en invierno también. 
 
