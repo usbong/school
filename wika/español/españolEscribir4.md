@@ -4,7 +4,7 @@ Fuimos a Hiroshima. Fue una excursión por nuestra clase que se llama «La rival
 
 Creo que la vivencia de viajar me ha dado lo más que me gustó. Estaba con mis compañeros, aunque no todos hablaban bien todavía la lengua japonesa. Entonces, necesitaban alguien que puede ayudarles. Es decir, porque estaba en el nivel más alto que ellos estaban,  recibí el papel para hacer esta cosa. 
 
-Además, ellos fueron de los Estados Unidos y Lithuania, y me parecía que porque soy Filipino no tenemos muchos problemas de la comunicación y también al lado de la cultura. 
+Además, ellos fueron de los Estados Unidos y Lithuania, y me parecía que porque soy filipino no tenemos muchos problemas de la comunicación y también al lado de la cultura. 
 
 Como el guía y intérprete, yo observé a veces la diferencia en los personajes de los miembros en nuestro equipo pequeño, que tenía 5 miembros. Por ejemplo, hubieron las chicas que habían llegado tarde, y por eso, algunos miembros estaban enfedadas. Pero estos incidentes no fueron demasiados grandes. 
 
@@ -14,7 +14,7 @@ Y cuando al final, hemos llegado, encontraban al otro equipo que tuvo más miemb
 
 Tenemos una fota que mostra que nosotros estamos en el barco para ir a la Miyajima, una isla acerca de Hiroshima.
 
-Creo que hay algunos de los antiquos alumnos que vuelven al Japón para quedar, y charlar sobre los viajes como esto cuando nosotros fuimos estudiantes. Entonces, yo creo que los dias finales del mes de setiembre son agradables para hacer esta cosa, porque el siguiente clima es el otoño, y por eso, hará más fresco que los dias anteriores, y bueno, los dias que viene en invierno también. 
+Creo que hay algunos de los antiquos alumnos que vuelven al Japón para quedar, y charlar sobre los viajes como esto cuando nosotros fuimos estudiantes. Entonces, yo creo que los dias finales del mes de setiembre son agradables para hacer esta cosa, porque el siguiente clima es el otoño, y por eso, hará más fresco que los dias anteriores, y bueno, los dias que vienen en invierno también. 
 
 ### Las referencias:
 
