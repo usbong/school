@@ -23,3 +23,10 @@ Cristina
 2) trasladar
 
 3) lo menos un año
+
+
+### Las referencias:
+
+1) [Curso en línea de preparación para el examen DELE B1](https://ave.cervantes.es/curso-de-preparacion-para-el-examen-dele-b1?_gl=1*11t70ux*glob_ga*NDczNDEzNTkuMTY4ODg3NzYxNA..*glob_ga_57JPCLFY9Z*MTY4OTQwOTA4OS40LjEuMTY4OTQwOTE3Mi41NS4wLjA.*port_ga*NDczNDEzNTkuMTY4ODg3NzYxNA..*port_ga_Z9V7YFW9ZK*MTY4OTQwOTA4OS40LjEuMTY4OTQwOTE3Mi41NS4wLjA.)
+
+2) https://www.spanishdict.com
