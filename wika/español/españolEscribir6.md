@@ -23,3 +23,10 @@ Siguiente, es destruir cada miembro de estos contrabandistas terroristas que aun
 Mientras tanto, las escuelas publicas no tienen el fundo suficiente para ensañar bien a los niños, porque los contrabandistas terroristas no pagan los impuestos correctamente, a las sumas en millones pesos.
 
 Al final, destruir los contrandistas terroristas es la acción necesaria, y atras de hacer esto, poner las noticias con sus perfiles en los periodicos, los sitios de web para difundir cuál es el problema, y su solución correpondiente.
+
+
+### Las referencias:
+
+1) [Curso en línea de preparación para el examen DELE B1](https://ave.cervantes.es/curso-de-preparacion-para-el-examen-dele-b1?_gl=1*11t70ux*glob_ga*NDczNDEzNTkuMTY4ODg3NzYxNA..*glob_ga_57JPCLFY9Z*MTY4OTQwOTA4OS40LjEuMTY4OTQwOTE3Mi41NS4wLjA.*port_ga*NDczNDEzNTkuMTY4ODg3NzYxNA..*port_ga_Z9V7YFW9ZK*MTY4OTQwOTA4OS40LjEuMTY4OTQwOTE3Mi41NS4wLjA.)
+
+2) https://www.spanishdict.com
