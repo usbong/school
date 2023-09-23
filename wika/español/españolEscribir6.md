@@ -22,7 +22,7 @@ Siguiente, es destruir cada miembro de estos contrabandistas terroristas que aun
 
 Mientras tanto, las escuelas públicas no tienen el fundo suficiente para ensañar bien a los niños, porque los contrabandistas terroristas no pagan los impuestos correctamente, a las sumas en millones pesos.
 
-Al final, destruir los contrandistas terroristas es la acción necesaria, y atras de hacer esto, poner las noticias con sus perfiles en los periódicos, los sitios de web para difundir cuál es el problema, y su solución correpondiente.
+Al final, destruir los contrabandistas terroristas es la acción necesaria, y atras de hacer esto, poner las noticias con sus perfiles en los periódicos, los sitios de web para difundir cuál es el problema, y su solución correpondiente.
 
 
 ### Las referencias:
