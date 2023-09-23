@@ -20,7 +20,7 @@ Y para hace esto, yo propongo primero, entregar los reportajes a las policías l
 
 Siguiente, es destruir cada miembro de estos contrabandistas terroristas que aunque ya han ido en las escuelas privadas, y también se han graduado, no pueden hablar, explicar bien cosas en la lengua inglesa y china. Para la segunda, ellos se han venido de China. Por lo tanto, ellos usan dinero para que les hacen a los Filipinos andar a la dirección que ellos quieren. Después, ya no tienen muchos dineros y necesitan matar otra vez, creando caos porque los Filipinos tienen las tierras que ellos necesitan vender al precio muy barrato para tratar la enfermedad de un anciano de la familia. De hecho, los terroristas la han construido. 
 
-Mientras tanto, las escuelas públicas no tienen el fundo suficiente para ensañar bien a los niños, porque los contrabandistas terroristas no pagan los impuestos correctamente, a las sumas en millones pesos.
+Mientras tanto, las escuelas públicas no tienen el fundo suficiente para enseñar bien a los niños, porque los contrabandistas terroristas no pagan los impuestos correctamente, a las sumas en millones pesos.
 
 Al final, destruir los contrabandistas terroristas es la acción necesaria, y atras de hacer esto, poner las noticias con sus perfiles en los periódicos, los sitios de web para difundir cuál es el problema, y su solución correpondiente.
 
