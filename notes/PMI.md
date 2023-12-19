@@ -21,3 +21,9 @@ https://www.pmi.org/about/learn-about-pmi/history-of-pmi; last accessed: 2023121
 ## Most Influential Projects: 2021 Edition
 
 https://www.pmi.org/most-influential-projects-2021; last accessed: 20231219
+
+# NEXT
+
+## Harvard Business School Welcomes the MBA Class of 2025 
+
+https://www.youtube.com/watch?app=desktop&v=U5l5rFcRFB0; last accessed: 20231219
