@@ -20,6 +20,12 @@ https://www.edx.org/certificates/professional-certificate/umd-project-management
 
 2) THE ANSWER IS THE ROOT OF THE OTHER SEEMINGLY CORRECT CHOICES
 
+## Membership
+
+https://www.pmi.org/membership; last accessed: 20240122
+
+includes, among others: PMBOK® Guide downloadable; multiple languages;<br/>
+no nihongo translation yet
 
 ## History
 
