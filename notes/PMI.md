@@ -30,6 +30,10 @@ includes, among others: [PMBOK® Guide downloadable](https://www.pmi.org/pmbok-g
 
 no nihongo translation yet
 
+https://www.pmi.org/membership/chapters; last accessed: 20240122
+
+> These chapters are suggested based on your current IP address and may not necessarily reflect the chapters nearest your work or residence.
+
 ## History
 
 https://www.pmi.org/about/learn-about-pmi/history-of-pmi; last accessed: 20231219
