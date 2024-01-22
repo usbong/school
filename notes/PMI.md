@@ -14,6 +14,13 @@ https://www.edx.org/certificates/professional-certificate/umd-project-management
 
 > Your edX account is now provided by 2U in accordance with edX’s current Terms of Serviceopen_in_new and Privacy Policyopen_in_new.
 
+### Additional Notes
+
+1) POSITIVE, AFFIRMATIVE ANSWER, INSTEAD OF IN THE NEGATIVE FORM
+
+2) THE ANSWER IS THE ROOT OF THE OTHER SEEMINGLY CORRECT CHOICES
+
+
 ## History
 
 https://www.pmi.org/about/learn-about-pmi/history-of-pmi; last accessed: 20231219
