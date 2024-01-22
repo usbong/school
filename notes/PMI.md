@@ -24,7 +24,7 @@ https://www.edx.org/certificates/professional-certificate/umd-project-management
 
 https://www.pmi.org/membership; last accessed: 20240122
 
-includes, among others: PMBOK® Guide downloadable; multiple languages;<br/>
+includes, among others: [PMBOK® Guide downloadable](https://www.pmi.org/pmbok-guide-standards/foundational/pmbok?sc_camp=C1F205656B53484F85E5E4DEA250E10B); multiple languages;<br/>
 no nihongo translation yet
 
 ## History
