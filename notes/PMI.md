@@ -30,6 +30,32 @@ includes, among others: [PMBOK® Guide downloadable](https://www.pmi.org/pmbok-g
 
 no nihongo translation yet
 
+> Standards & Guides Resources
+
+> Click Here for up-to-date PMI Standards & Guides Information
+
+> Download PDF versions of PMI Standards and Guides using the links below. PMI Members can access and download these products for free as part of their member benefits.
+
+>    PMBOK® Guide<br/>
+>    Agile Practice Guide<br/>
+>    Guide to Business Analysis<br/>
+>    Standard for Risk Management in Portfolios, Programs and Projects<br/>
+>    Standard for Earned Value Management<br/>
+>    Standard for Organizational Project Management<br/>
+>    Standard for Program Management<br/>
+>    Standard for Portfolio Management<br/>
+>    Practice Standard for Work Breakdown Structures<br/>
+>    Practice Standard for Project Estimating<br/>
+>    Practice Standard for Scheduling<br/>
+>    Practice Standard for Project Configuration Management<br/>
+>    Benefits Realization Management: A Practice Guide<br/>
+>    Requirements Management: A Practice Guide<br/>
+>    Governance of Portfolios, Programs and Projects: A Practice Guide<br/>
+>    Business Analysis for Practitioners: A Practice Guide<br/>
+>    Navigating Complexity: A Practice Guide<br/>
+>    Managing Change in Organizations: A Practice Guide<br/>
+>    Process Groups: A Practice Guide
+
 https://www.pmi.org/membership/chapters; last accessed: 20240122
 
 > These chapters are suggested based on your current IP address and may not necessarily reflect the chapters nearest your work or residence.
