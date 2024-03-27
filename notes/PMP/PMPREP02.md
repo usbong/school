@@ -16,3 +16,15 @@
 
 > Beyond the Title: Uncover the True Essence of Project Management
 
+## --
+
+## https://www.pmi.org/-/media/pmi/documents/public/pdf/pmbok-standards/agile-practice-guide-errata-3rd.pdf; last accessed: 20240327
+
+> Some techniques to consider for managing communication in dispersed teams are fishbowl windows and
+remote pairing:
+
+1) 
+> Create a fishbowl window by setting up long-lived video conferencing links between the various locations in which the team is dispersed. People start the link at the beginning of a workday, and close it at the end. In this way, people can see and engage spontaneously with each other, reducing the collaboration lag otherwise inherent in the geographical separation.
+
+2) 
+> Set up remote pairing by using virtual conferencing tools to share screens, including voice and video links. As long as the time zone differences are accounted for, this may prove almost as effective as face-to-face pairing.
