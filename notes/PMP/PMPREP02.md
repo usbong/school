@@ -28,3 +28,9 @@ remote pairing:
 
 2) 
 > Set up remote pairing by using virtual conferencing tools to share screens, including voice and video links. As long as the time zone differences are accounted for, this may prove almost as effective as face-to-face pairing.
+
+## https://www.pmi.org/learning/library/planning-effective-stakeholder-management-strategies-development-6058; last accessed: 20240406
+
+1) Power-Interest Grid
+
+2) Salience Model
