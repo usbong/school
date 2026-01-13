@@ -12,5 +12,20 @@ https://www.amazon.com/Gmat-All-Quant-Effective-Strategies/dp/1506292119; last a
 
 4) Learning about faster ways to solving a problem feels amazing, except for #2.
 
-5) I'd recommend people to really do all the exercises in the book. It's a lot more interactive that way, although the writings in some of the images are too small, even after setting the Kindle eBook Reader's layout to "Single Column." 
+5) I'd recommend people to really do all the exercises in the book. It's a lot more interactive that way, although the writings in some of the images are too small, even after setting the Kindle eBook Reader's layout to "Single Column."
 
+## More Thoughts
+
+1) I've been continuing with the GMAT review despite the noise.
+  
+2) There's something to learn each day.
+
+3) The reviewer itself teaches something about the actual world.
+
+### Examples
+
+1) Are you interested in learning about topics that would only have a small chance of getting included in the actual MBA exam?
+
+2) Do you want to learn more about a topic because you want to understand how something became what it is?
+
+3) This exam is baloney, unless you’re the one who made it?!
