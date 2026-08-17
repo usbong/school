@@ -4,11 +4,13 @@ https://www.youtube.com/@usbong
 
 <table>
 <tr>
+<!--
   <td>
     <img src="https://github.com/usbong/school/blob/main/res/sysonMichaelCanineWakaranaiV20260706.jpg" width="100%">
   </td>
+-->  
   <td>
-    <img src="https://github.com/usbong/school/blob/main/res/sysonMichaelBangsSmileV20260701.jpg" width="100%">
+    <img src="https://github.com/usbong/school/blob/main/res/sysonMichaelV20260817Haircut.jpg" width="100%">
   </td>
 </tr>  
 </table>
