@@ -10,7 +10,7 @@ https://www.youtube.com/@usbong
   </td>
 -->  
   <td>
-    <img src="https://github.com/usbong/school/blob/main/res/sysonMichaelV20260817Haircut.jpg" width="100%">
+    <img src="https://github.com/usbong/school/blob/main/res/sysonMichaelWackyFaceResizedV20261119T2132.jpg" width="100%">
   </td>
 </tr>  
 </table>
